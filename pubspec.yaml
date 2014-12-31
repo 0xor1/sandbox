@@ -1,0 +1,4 @@
+name: sandbox
+description: A sandbox package for quickly testing ideas
+dependencies:
+  browser: any
